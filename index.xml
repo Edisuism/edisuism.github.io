@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edisu ʕ•ᴥ•ʔ Blog</title>
+    <link>https://edisu.github.io/</link>
+    <description>Recent content on Edisu ʕ•ᴥ•ʔ Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <atom:link href="https://edisu.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
