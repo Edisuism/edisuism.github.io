@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edisu ʕ•ᴥ•ʔ Blog</title>
-    <link>https://edisu.github.io/</link>
-    <description>Recent content on Edisu ʕ•ᴥ•ʔ Blog</description>
+    <title>Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <link>https://edisuism.github.io/</link>
+    <description>Recent content on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <atom:link href="https://edisu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 00:31:13 +1100</lastBuildDate>
+    <atom:link href="https://edisuism.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://edisuism.github.io/new-page/</link>
+      <pubDate>Thu, 14 Mar 2024 00:31:13 +1100</pubDate>
+      <guid>https://edisuism.github.io/new-page/</guid>
+      <description>About this site Hello, I&amp;rsquo;m Edward—a computer graphics researcher driven by a fascination with pushing the boundaries of visual technology. My journey began in the dynamic realm of gaming, where I honed my skills and developed a deep understanding of immersive virtual environments. Now, as a researcher, I&amp;rsquo;m passionate about exploring cutting-edge rendering techniques and delving into the intricacies of real-time rendering and procedural content generation. My work reflects a relentless pursuit of innovation, aiming to create experiences that captivate and inspire in the ever-evolving landscape of digital artistry.</description>
+    </item>
+    <item>
+      <title>old page</title>
+      <link>https://edisuism.github.io/old-page/</link>
+      <pubDate>Thu, 14 Mar 2024 00:31:13 +1100</pubDate>
+      <guid>https://edisuism.github.io/old-page/</guid>
+      <description>Bear Website: https://bearblog.dev&#xA;There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.&#xA;Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.&#xA;Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
+    </item>
+    <item>
+      <title>new page copy</title>
+      <link>https://edisuism.github.io/new-page---copy/</link>
+      <pubDate>Thu, 14 Mar 2024 00:31:13 +1100</pubDate>
+      <guid>https://edisuism.github.io/new-page---copy/</guid>
+      <description>Bear Website: https://bearblog.dev&#xA;cus on is writing good content.&#xA;Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.&#xA;Each page is ~5kb.&#xA;Learn more and contribute on GitHub.</description>
+    </item>
+    <item>
+      <title>New Post</title>
+      <link>https://edisuism.github.io/new-post/</link>
+      <pubDate>Thu, 14 Mar 2024 00:30:56 +1100</pubDate>
+      <guid>https://edisuism.github.io/new-post/</guid>
+      <description>This is a page about »New Post«.</description>
+    </item>
+    <item>
+      <title>New Post Copyfdfdf</title>
+      <link>https://edisuism.github.io/new-post-copyfdfdf/</link>
+      <pubDate>Thu, 14 Mar 2024 00:30:56 +1100</pubDate>
+      <guid>https://edisuism.github.io/new-post-copyfdfdf/</guid>
+      <description>This is a page about »New Post«.</description>
+    </item>
   </channel>
 </rss>

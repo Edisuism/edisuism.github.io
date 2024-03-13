@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://edisu.github.io/sitemap.xml
+Sitemap: https://edisuism.github.io/sitemap.xml
